@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+}
+.welcome{
+    font-size:89;
+}
+.menu-hor{
+    display: inline;
+}
